@@ -1,16 +1,6 @@
 function App() {
   return (
     <form className="mt-4 mt-4 flex flex-col items-center gap-y-2">
-      <label htmlFor="username" className="sr-only">
-        Username
-      </label>
-      <input
-        type="text"
-        id="username"
-        placeholder="Username"
-        className="rounded"
-      />
-
       <label htmlFor="password" className="sr-only">
         Password
       </label>
